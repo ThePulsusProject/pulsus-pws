@@ -1,0 +1,1 @@
+json { name: Pulsus Beta, short_name: Pulsus, description: Verified content preserved through technology and AI, start_url: /index, display: standalone, background_color: #1A2F4F, theme_color: #1A2F4F, icons:, orientation: portrait, scope: / }
